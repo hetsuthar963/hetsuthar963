@@ -4,9 +4,8 @@ Full‑stack + AI developer and DevOps enthusiast based in Surat, India. I enjoy
 
 ## 👨‍🎓 About Me
 
-- **Education:** pursuing a **B.E. in Information Technology** at **Sardar Vallabhbhai Patel Institute of Technology, Gujarat** (July 2022 – present), currently with a **CGPA of 7.50**.
+- **Education:** pursuing a **B.E. in Information Technology**.
 - **Focus:** building applications that harness large‑language models, real‑time data and cloud‑native architectures.
-- **Location:** Surat, Gujarat, India (UTC+5:30).
 
 ## 🛠️ Skills
 
