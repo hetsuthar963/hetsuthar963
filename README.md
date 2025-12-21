@@ -1,49 +1,114 @@
-# Hi, I’m Het Suthar 👋
 
-Full‑stack + AI developer and DevOps enthusiast based in Surat, India. I enjoy designing end‑to‑end solutions that combine modern web development, machine learning and scalable cloud infrastructure.
 
-## 👨‍🎓 About Me
+# Het Suthar
 
-- **Education:** pursuing a **B.E. in Information Technology**.
-- **Focus:** building applications that harness large‑language models, real‑time data and cloud‑native architectures.
+**Full-Stack & AI Developer** | **DevOps Enthusiast**  
+📍 Surat, India · 🎓 Pursuing B.E. in Information Technology
 
-## 🛠️ Skills
+*Building intelligent applications that bridge modern web development, generative AI, and scalable cloud infrastructure.*
 
-| Area | Technologies & Tools |
-| --- | --- |
-| **Languages** | Java (intermediate), Python (intermediate), JavaScript (proficient), TypeScript (beginner) |
-| **Frameworks / Libraries** | Next.js, React, Express, Tailwind CSS, Prisma/Drizzle ORM, Zod, MonoRepo |
-| **Databases** | MySQL, MongoDB, PostgreSQL |
-| **Tools** | Git & GitHub, Postman, Cloudflare |
-| **Cloud / DevOps** | AWS (EC2, S3, Route 53, Elastic IP), Docker |
+---
 
-## 🚀 Highlighted Projects
+## 📍 Professional Focus
 
-- **RAG Project – “Talk to Your Data.”** A Generative‑AI application where users can chat with PDFs. It uses **Gemini + Pinecone RAG** to extract repeated questions and knowledge, integrates **Clerk** for authentication, stores files in **AWS S3**, and leverages **Drizzle ORM + Neon** for chat persistence. The front end is built with **Next.js**, **TypeScript** and **Tailwind CSS**.
-- **LLM‑Powered Job Scraper.** A Chrome extension written in **JavaScript** that scrapes LinkedIn job listings and sends them to a **Node.js/Express** back end. Jobs are stored in **MongoDB** and summarised using **OpenAI/Gemini**. A **React + Vite** dashboard on **AWS EC2 with Nginx** displays the results.
-- **OnBlogs.** A blogging platform built with **React**, **Cloudflare Workers**, **PostgreSQL**, **Prisma ORM** and **JWT** to deliver a type‑safe, secure and scalable blogging experience.
+I specialize in designing end-to-end solutions that leverage **large-language models**, **real-time data processing**, and **cloud-native architectures**. Currently exploring advanced RAG implementations, vector databases, and containerized deployments.
 
-## 🏆 Honours & Certificates
+---
 
-- **Government‑recognised SSIP Grant.** Led a three‑member team to build an MVP for AI document fraud detection.
-- **HackBangalore Finalist.** Selected as a finalist in the AngleHacks Global Hackathon series.
-- **Ranked 9th.** Achieved 9th place in the departmental mock placement round at SVIT IT.
+## 🛠 Core Competencies
 
-## 📫 Reach Out
+### **Development Stack**
+**Frontend & Fullstack:**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
-Feel free to connect or collaborate on projects:
+**Backend & Databases:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/-Hono-FF9990?logo=hono&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-- **Portfolio:** [hetsuthar.tech](https://www.hetsuthar.tech)
-- **Twitter/X:** [twitter.com](https://x.com)
-- **LinkedIn:** [linkedin.com](https://www.linkedin.com)
-- **GitHub:** [@hetsuthar963](https://github.com/hetsuthar963)
 
-## 📊 GitHub Stats
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-2796ED?logo=digitalocean&logoColor=white)
 
-![Het’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hetsuthar963&show_icons=true&theme=transparent&hide_title=true)
+### **AI & Specialized Tools**
+**AI/ML Stack:** Python · OpenAI/Gemini APIs · Pinecone · RAG Pipelines  
+**Development Tools:** Git · GitHub · Prisma/Drizzle ORM · Zod · Postman
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hetsuthar963&layout=compact&theme=transparent)
+---
 
-## 🌱 What’s Next
+## 🚀 Notable Projects
 
-I’m currently exploring Generative AI workflows, vector databases and cloud‑native deployments. If you’re working on something interesting or want to chat about AI and DevOps, don’t hesitate to reach out.
+### **Talk to Your Data** – *Generative AI RAG Application*
+A production-ready application enabling natural language interaction with PDF documents.  
+**Tech Stack:** `Next.js` `TypeScript` `Gemini AI` `Pinecone` `AWS S3` `Drizzle ORM` `Neon` `Clerk Auth`  
+**Key Features:** Intelligent document parsing, persistent chat memory, secure file storage, and responsive UI.
+
+### **LLM-Powered Job Intelligence Platform**
+End-to-end system for automated job discovery and analysis from LinkedIn.  
+**Tech Stack:** `Chrome Extension` `Node.js/Express` `MongoDB` `OpenAI/Gemini` `React` `Vite` `AWS EC2` `Nginx`  
+**Architecture:** Extension-based scraping → AI-powered summarization → Dashboard visualization.
+
+### **OnBlogs – Modern Blogging Platform**
+Full-stack blogging solution emphasizing type safety, security, and scalability.  
+**Tech Stack:** `React` `Cloudflare Workers` `PostgreSQL` `Prisma ORM` `JWT`  
+**Design Principles:** Serverless architecture, edge computing, and developer experience focus.
+
+---
+
+## 📊 GitHub Profile & Activity
+
+<div align="center">
+  
+| **Coding Activity** | **Language Distribution** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=hetsuthar963&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default" alt="GitHub Stats" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetsuthar963&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top Languages" width="300" /> |
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+| Milestone | Description | Context |
+| :--- | :--- | :--- |
+| **Government SSIP Grant** | Led 3/4-member team to develop Prototype for  Image forgery detection | Innovation grant for practical  solution |
+| **HackBangalore Finalist** | Selected among top teams in AngleHacks Global Hackathon | Competitive hackathon recognition |
+| **Academic Excellence** | Ranked 9th in departmental mock placement round at SVIT IT | Institute-level technical assessment |
+
+---
+
+## 🌱 Current Learning Trajectory
+
+Deepening expertise in:
+- **RAG implementations** and multi-modal AI workflows
+- **Vector database optimization** and semantic search patterns
+- **Cloud-native design patterns** and infrastructure-as-code
+- **System design principles** for scalable AI applications
+
+---
+
+## 📬 Connect & Collaborate
+
+I welcome discussions on **AI engineering**, **full-stack development**, and **cloud infrastructure**.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hetsuthar.tech-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetsuthar.tech)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![X](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HetSuthar3369)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hetsuthar963)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetsuthar31@.gmail)
+
+</div>
+
+---
+
+*Open to collaborative projects, technical discussions, and innovative opportunities at the intersection of AI and software engineering.*
