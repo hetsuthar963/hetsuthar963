@@ -3,7 +3,7 @@
 # Het Suthar
 
 **Full-Stack & AI Developer** | **DevOps Enthusiast**  
-📍 Surat, India · 🎓 Pursuing B.E. in Information Technology
+📍 India · 🎓 UG | Information Technology
 
 *Building intelligent applications that bridge modern web development, generative AI, and scalable cloud infrastructure.*
 
