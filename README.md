@@ -15,7 +15,7 @@ I specialize in designing end-to-end solutions that leverage **large-language mo
 
 ---
 
-## 🛠 Core Competencies
+## Core Competencies
 
 ### **Development Stack**
 **Frontend & Fullstack:**  
@@ -44,7 +44,7 @@ I specialize in designing end-to-end solutions that leverage **large-language mo
 
 ---
 
-## 🚀 Notable Projects
+## Notable Projects
 
 ### **Talk to Your Data** – *Generative AI RAG Application*
 A production-ready application enabling natural language interaction with PDF documents.  
@@ -63,7 +63,7 @@ Full-stack blogging solution emphasizing type safety, security, and scalability.
 
 ---
 
-## 📊 GitHub Profile & Activity
+## GitHub Profile & Activity
 
 <div align="center">
   
@@ -75,7 +75,7 @@ Full-stack blogging solution emphasizing type safety, security, and scalability.
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
 | Milestone | Description | Context |
 | :--- | :--- | :--- |
@@ -85,7 +85,7 @@ Full-stack blogging solution emphasizing type safety, security, and scalability.
 
 ---
 
-## 🌱 Current Learning Trajectory
+## Current Learning Trajectory
 
 Deepening expertise in:
 - **RAG implementations** and multi-modal AI workflows
